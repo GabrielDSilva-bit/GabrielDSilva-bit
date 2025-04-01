@@ -1,6 +1,10 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=ffff00&text=Bem%20Vindo&fontAlignY=35&fontColor=FFFFFF"/>
+
 ## Olá eu sou Gabriel Coelho, Estudante de Engenharia de Softare e Desenvolvedor!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielDSilva-bit&show_icons=true&theme=transparent)
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<div align="center">
+  <img height="200px" width="49%" src="https://github-readme-stats.vercel.app/api?username=GabrielDSilva-bit&hide=issues&show_icons=true&theme=outrun">
+  <img height="200px" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDSilva-bit&layout=compact&langs_count=8&theme=outrun">
+</div>
 
 <h1 align="left">Tecnologias que uso ou já usei:</h1>
 <div style="display: inline_block"><br>
