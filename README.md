@@ -1,7 +1,62 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=ffff00&text=Bem%20Vindo&fontAlignY=35&fontColor=FFFFFF"/>
 
-## Olá eu sou Gabriel Coelho, Estudante de Engenharia de Softare e Desenvolvedor!
-<div align="center"> <img height="200px" width="49%" src="https://github-readme-stats.vercel.app/api?username=GabrielDSilva-bit&show_icons=true&theme=outrun&hide_border=true&count_private=true"> <img height="200px" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDSilva-bit&layout=compact&langs_count=8&theme=outrun&hide_border=true"> </div>
+# Olá, eu sou Gabriel Coelho 👋
+
+🎓 Estudante de **Engenharia de Software** e **Desenvolvedor Backend em formação**, com foco principalmente no ecossistema **Java** e **Node.js**.
+
+☕ No desenvolvimento com **Java**, venho trabalhando com **Spring Boot, Spring Data JPA, Hibernate, APIs REST, JDBC, orientação a objetos e integração com bancos de dados SQL**. Tenho desenvolvido aplicações utilizando arquitetura organizada em camadas, trabalhando com **Controllers, Services e Repositories**, além de implementar **CRUDs, validações, autenticação e controle de permissões**.
+
+🟢 Também estudo **Node.js**, utilizando **Express.js** para criação de APIs REST, desenvolvimento de rotas, integração com bancos de dados e construção de aplicações backend.
+
+🗄️ Tenho conhecimentos em **SQL e bancos de dados relacionais**, trabalhando com operações CRUD, modelagem de dados, relacionamentos e integração entre aplicações e banco de dados.
+
+🌐 Possuo também conhecimentos em **HTML, CSS, JavaScript e Angular**, utilizados principalmente para compreender e desenvolver aplicações web completas.
+
+🔐 Tenho interesse em **Segurança da Informação, Cybersecurity e Ethical Hacking**, buscando aplicar conceitos de segurança no desenvolvimento de software.
+
+### 🛠️ Tecnologias
+
+**Backend**
+
+* ☕ Java
+* 🌱 Spring Boot
+* 🗃️ Spring Data JPA
+* 🔄 Hibernate
+* 🔌 JDBC
+* 🟢 Node.js
+* 🚂 Express.js
+* 🌐 APIs REST
+
+**Banco de Dados**
+
+* 🗄️ SQL
+* 🔵 SQLite
+* 🐘 PostgreSQL
+
+**Frontend**
+
+* HTML
+* CSS
+* JavaScript
+* Angular
+
+**Ferramentas e conceitos**
+
+* Git & GitHub
+* Maven
+* CRUD
+* Orientação a Objetos
+* Arquitetura em camadas
+* Validação de dados
+* Autenticação e autorização
+* Metodologias Ágeis / Scrum
+
+🚀 **Atualmente estou focado em evoluir como desenvolvedor Backend, aprofundando meus conhecimentos em Java, Spring Boot, Node.js, APIs, bancos de dados e segurança de aplicações.**
+
+🎯 **Objetivo:** conquistar minha primeira oportunidade na área de tecnologia e transformar meus estudos em experiência profissional.
+
+📫 **GitHub:** [GabrielDSilva-bit](https://github.com/GabrielDSilva-bit)
+
 
 <h1 align="left">Tecnologias que uso ou já usei:</h1>
 <div style="display: inline_block"><br>
